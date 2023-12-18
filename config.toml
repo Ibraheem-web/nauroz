@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseURL = "https://github.com/Ibraheem-web/nauroz"
+baseURL = "https://ibraheem-web.github.io/nauroz/"
 languageCode = "en-us"
 title = "Danto"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
