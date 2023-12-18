@@ -41,6 +41,7 @@
   text-decoration-color: transparent;
   text-decoration-thickness: 2px;
   text-underline-offset: 3px;
+  color: var(--heading-font-color);
 
   &:hover {
     text-decoration-color: var(--heading-font-color);
