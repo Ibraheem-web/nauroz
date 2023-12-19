@@ -129,7 +129,7 @@ paginate = 12
     enable = true
     mailchimp__title = "Get interesting news"
     mailchimp__description = "Subscribe to NouRoz and we’ll send you the emails of latest posts."
-    mailchimp__identifier = "https://protonmail.us21.list-manage.com/subscribe/post" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+    mailchimp__identifier = "protonmail.us21.list-manage.com/subscribe/post" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
     mailchimp__input__text = "Your email address"
     mailchimp__button__text = "Subscribe"
 
