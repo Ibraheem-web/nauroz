@@ -3,7 +3,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Nauroz"
-googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
+googleAnalytics = "G-Y5FL4FJ8E8" # Add your identifier. For example UA-99631805-1.
 paginate = 12
 
 
