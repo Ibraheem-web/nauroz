@@ -11,9 +11,9 @@
       action="{{ if .Site.Params.mailchimp.mailchimp__identifier }}//{{.Site.Params.mailchimp.mailchimp__identifier}}{{ else }}#{{ end }}"
       method="POST" id="membedded-subscribe-form" name="membedded-subscribe-form" novalidate>
       <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
-      <input class="subscribe-email required email" id="MERGO" name="MERGO" autocapitalize="off" type="email"
+      <input class="subscribe-email required email" id="mce-EMAIL" name="EMAIL" autocapitalize="off" type="email"
         placeholder="{{ if .Site.Params.mailchimp.mailchimp__input__text }}{{ .Site.Params.mailchimp.mailchimp__input__text }}{{ else }}Email address{{ end }}">
-      <button class="button button--primary button--big subscribe-button" id="membedded-subscribe" type="submit" name="submit" value="Subscribe">{{ .Site.Params.mailchimp.mailchimp__button__text }}</button>
+      <button class="button button--primary button--big subscribe-button" id="mc-embedded-subscribe" type="subscribe" name="submit" value="Subscribe">{{ .Site.Params.mailchimp.mailchimp__button__text }}</button>
     </form>
   </div>
 </div>
