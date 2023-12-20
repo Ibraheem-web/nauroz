@@ -146,7 +146,7 @@ paginate = 12
   # Comment Section (Disqus)
   [params.disqus]
     enable = true
-    disqusShortname = "disqus_L35BCAzBda" # Add your shortname for Disqus Comment. For example anvod-studio-test
+    disqusShortname = "https://nauroz.disqus.com/admin/" # Add your shortname for Disqus Comment. For example anvod-studio-test
 
 
 [taxonomies]
